@@ -1,6 +1,8 @@
-# react-firebase-project-manager
+# Project Manager App
 
 Test it out: https://project-manager-5112f.web.app
+
+React + Firebase
 
 - Sign In/Up with Email & Password
 - Create Projects and Delete those created by you
