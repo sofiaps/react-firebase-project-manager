@@ -2,6 +2,10 @@
 
 Test it out: https://project-manager-5112f.web.app
 
+- Sign In/Up with Email & Password
+- Create Projects and Delete those created by you
+- Filter Projects
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
